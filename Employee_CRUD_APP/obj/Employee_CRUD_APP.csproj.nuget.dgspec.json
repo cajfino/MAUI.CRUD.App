@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\MAUI_CRUD_PROJECT\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj": {}
+    "C:\\Users\\User\\Desktop\\TEST_TEST_TEST_Employee_CRUD_APP\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\MAUI_CRUD_PROJECT\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj": {
+    "C:\\Users\\User\\Desktop\\TEST_TEST_TEST_Employee_CRUD_APP\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\MAUI_CRUD_PROJECT\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TEST_TEST_TEST_Employee_CRUD_APP\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj",
         "projectName": "Employee_CRUD_APP",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\MAUI_CRUD_PROJECT\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TEST_TEST_TEST_Employee_CRUD_APP\\Employee_CRUD_APP\\Employee_CRUD_APP.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\MAUI_CRUD_PROJECT\\Employee_CRUD_APP\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TEST_TEST_TEST_Employee_CRUD_APP\\Employee_CRUD_APP\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

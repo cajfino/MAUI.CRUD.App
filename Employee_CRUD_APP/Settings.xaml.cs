@@ -44,7 +44,6 @@ public partial class Settings : ContentPage
         }
     }
 
-    //Save user settings
     private async void SaveButton_Clicked(object sender, EventArgs e)
     {
         var name = NameEntry.Text;

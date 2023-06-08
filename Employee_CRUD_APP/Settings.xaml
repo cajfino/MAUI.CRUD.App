@@ -35,7 +35,8 @@
         <RadioButton Grid.Column="1" Grid.Row="2" Content="Normal" IsChecked="True" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#941a1d"/>
         <RadioButton Grid.Column="1" Grid.Row="2" Content="Large" IsChecked="False" VerticalOptions="Center" HorizontalOptions="End" TextColor="#941a1d"/>
         <!--Clicked="SaveButton_Clicked"-->
-        <Button Grid.Row="6" Grid.ColumnSpan="2"  Clicked="SaveButton_Clicked" Text="SAVE USER SETTINGS" HeightRequest="50" WidthRequest="200" HorizontalOptions="Center"/>
+        <Button Grid.Row="6" Grid.ColumnSpan="2"  Clicked="SaveButton_Clicked" Text="SAVE USER SETTINGS" HeightRequest="50" WidthRequest="200" HorizontalOptions="Center" BackgroundColor="#941a1d" TextColor="White" 
+                FontFamily="Trebuchet-MS-Bold" BorderColor="White" BorderWidth="3"/>
 
     </Grid>
 </ContentPage>

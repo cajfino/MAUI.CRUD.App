@@ -22,7 +22,7 @@
     </ContentPage.Resources>
     <!-- Grid contenet starts here -->
     <!-- Grid contenet starts here -->
-    <Grid Padding="5" RowSpacing="10" ColumnSpacing="0" BackgroundColor="#262626">
+    <Grid Padding="5" RowSpacing="10" ColumnSpacing="0" BackgroundColor="Black">
         <Grid.RowDefinitions>
             <RowDefinition Height="50" />
             <RowDefinition Height="*" />
@@ -60,7 +60,7 @@
                 BackgroundColor="#941a1d" TextColor="White" FontFamily="Trebuchet-MS-Bold" BorderColor="White" BorderWidth="3"/>
         <!--This is the area where the data will be displayed in a table-->
         <CollectionView x:Name="employeeList" Grid.Row="2" Grid.RowSpan="2" Grid.ColumnSpan="3" 
-                        BackgroundColor="#262626" SelectionMode="Single" SelectionChanged="employeeList_SelectionChanged">
+                         SelectionMode="Single" SelectionChanged="employeeList_SelectionChanged">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <Grid Margin="20,10">

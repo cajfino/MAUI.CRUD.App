@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Employee_CRUD_APP
-build_property.ProjectDir = C:\Users\User\Documents\GitHub\MAUI_CRUD_PROJECT\Employee_CRUD_APP\
+build_property.ProjectDir = C:\Users\User\Desktop\TEST_TEST_TEST_Employee_CRUD_APP\Employee_CRUD_APP\
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/App.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/AppShell.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/MainPage.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/NewPage1.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/NewPage1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.NewPage1.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
 build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/NewPage2.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/NewPage2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.NewPage2.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPage2.xaml
 build_metadata.AdditionalFiles.RelativePath = NewPage2.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/NewPage3.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/NewPage3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.NewPage3.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPage3.xaml
 build_metadata.AdditionalFiles.RelativePath = NewPage3.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/Resources/Styles/Colors.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/Resources/Styles/Styles.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/User/Documents/GitHub/MAUI_CRUD_PROJECT/Employee_CRUD_APP/Settings.xaml]
+[C:/Users/User/Desktop/TEST_TEST_TEST_Employee_CRUD_APP/Employee_CRUD_APP/Settings.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Employee_CRUD_APP.Settings.xaml
 build_metadata.AdditionalFiles.TargetPath = Settings.xaml
