@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Employee_CRUD_APP.Settings">
+    <Grid Padding="5" RowSpacing="10" ColumnSpacing="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="80" />
+            <RowDefinition Height="100" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Text="Settings" FontFamily="Trebuchet-MS-Bold" FontSize="Large" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center"/>
+        <!-- Name Entry -->
+        <Border Grid.Column="0" Grid.Row="1"  StrokeThickness="4" BackgroundColor="#941a1d" HeightRequest="50" WidthRequest="450" Stroke="White">
+            <Entry x:Name="NameEntry" FontFamily="Trebuchet-MS-Bold" Placeholder="Enter Name" PlaceholderColor="White" TextColor="White" WidthRequest="400" HeightRequest="45"/>
+        </Border>
+        <!-- Age Entry -->
+        <Border Grid.Column="1" Grid.Row="1" StrokeThickness="4" BackgroundColor="#941a1d" HeightRequest="50" WidthRequest="450" Stroke="White">
+            <Entry x:Name="AgeEntry" FontFamily="Trebuchet-MS-Bold" Placeholder="Enter your age" PlaceholderColor="White" TextColor="White" WidthRequest="400" HeightRequest="45"/>
+        </Border>
+        <!-- Change Theme Stuff-->
+        <Label Grid.Row="2" Text="Change Theme" FontFamily="Trebuchet-MS-Bold" TextColor="#941a1d" HorizontalOptions="Start" VerticalOptions="Start" Padding="20"/>
+        <!-- Box -->
+        <Switch x:Name="togTheme" Toggled="OnThemeSwitchToggled" HorizontalOptions="Center" Grid.Column="0" Grid.Row="2" BackgroundColor="Black" OnColor ="Green"/>
+        <!-- Change Font-->
+        <!-- Box -->
+        <Label Grid.Row="2" Grid.Column="2" Text="Change Font Size" FontFamily="Trebuchet-MS-Bold" TextColor="#941a1d" HorizontalOptions="Start" VerticalOptions="Start" Padding="20"/>
+        <RadioButton Grid.Column="1" Grid.Row="2" Content="Normal" IsChecked="True" HorizontalOptions="Center" VerticalOptions="Center" TextColor="#941a1d"/>
+        <RadioButton Grid.Column="1" Grid.Row="2" Content="Large" IsChecked="False" VerticalOptions="Center" HorizontalOptions="End" TextColor="#941a1d"/>
+        <!--Clicked="SaveButton_Clicked"-->
+        <Button Grid.Row="6" Grid.ColumnSpan="2"  Clicked="SaveButton_Clicked" Text="SAVE USER SETTINGS" HeightRequest="50" WidthRequest="200" HorizontalOptions="Center"/>
+
+    </Grid>
+</ContentPage>
